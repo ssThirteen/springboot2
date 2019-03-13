@@ -18,7 +18,7 @@ public class Springboot2ApplicationTests {
     public void contextLoads() {
         User user = userMapper.selectByPrimaryKey("1");
         System.out.println(user);
-        System.out.println("456");
+        System.out.println("hello");
         System.out.println("123");
     }
 
