@@ -1,3 +1,4 @@
+
 package com.baizhi;
 
 import com.baizhi.dao.UserMapper;
@@ -20,6 +21,7 @@ public class Springboot2ApplicationTests {
         System.out.println(user);
         System.out.println("hello");
         System.out.println("123");
+        System.out.println("githup");
     }
 
 }
